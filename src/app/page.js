@@ -1,3 +1,9 @@
-<h1>
-  asmaa
-</h1>
+import Image from "next/image";
+
+export default function Home() {
+  return (
+  <h1>
+    asmaa
+  </h1>
+  );
+}
